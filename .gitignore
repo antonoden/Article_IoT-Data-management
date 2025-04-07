@@ -1,0 +1,16 @@
+article.aux
+article.bbl
+article.bcf
+article.blg
+article.fdb_latexmk
+article.fls
+article.log
+article.synctex.gz
+article.run.xml
+example.tex
+notes.txt
+Readings/An Overview of IoT Sensor Data Processing, Fusion, and Analysis Techniques.pdf
+Readings/MQTT_Topics_and_JSON_Data_Format.pdf
+Readings/NoSQL database systems a survey and decision guidance.pdf
+Readings/Time_synchronization_in_sensor_networks_a_survey.pdf
+Readings/Using_JSON_to_manage_communication_between_services_in_the_Internet_of_Things.pdf
