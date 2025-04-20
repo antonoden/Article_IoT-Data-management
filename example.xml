@@ -1,0 +1,7 @@
+<TempHumSensor>
+    <battery>100</battery>
+    <humidity>46</humidity>
+    <linkquality>47</linkquality>
+    <temperature>20.98</temperature>
+    <voltage>3000</voltage>
+</TempHumSensor>
